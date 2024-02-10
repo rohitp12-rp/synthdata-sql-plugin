@@ -1,0 +1,9 @@
+configparser
+pyodbc==5.0.1
+pandas==1.5.0
+numpy==1.23.3
+streamlit==1.28.2
+sdv==0.18.0
+pymongo==4.6.1
+google-generativeai==0.2.2
+
